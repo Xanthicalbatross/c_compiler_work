@@ -1,3 +1,7 @@
+/*this program is about to check 
+whether input character  is 
+an operator or not
+*/
 #include<stdio.h>
 #include<string.h>
 void unary(char check[0])
@@ -132,6 +136,10 @@ void binary(char check[1])
 
             }
 }
+/*Xanthicalbatross
+n00b 
+https://github.com/Xanthicalbatross
+*/
 int main ()
 {
     printf("Check whether operator or not\nOperator: ");
